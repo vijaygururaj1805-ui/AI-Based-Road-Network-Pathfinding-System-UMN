@@ -1,4 +1,4 @@
-[Shortest_Path_Search_and_Route_Complexity_Aware_A__on_the_University_of_Minnesota_Walkable_Campus_Network.pdf](https://github.com/user-attachments/files/33737189/Shortest_Path_Search_and_Route_Complexity_Aware_A__on_the_University_of_Minnesota_Walkable_Campus_Network.pdf)
+
 # AI-Based Road Network Pathfinding System
 
 ### Comparing Dijkstra's Algorithm, A*, and Custom Turn-Penalty A*
